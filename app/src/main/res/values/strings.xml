@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">SMTOWN</string>
+
+    <string name="heroes_name">List Group SMtown</string>
+    <string name="description">Deskripsi</string>
+
+
+    <string name="login">Login</string>
+    <string name="Password">Password</string>
+    <string name="Username">Username</string>
+    <string name="Login">Login</string>
+
+    <string-array name="data_name">
+        <item>RIIZE</item>
+        <item>Aespa</item>
+        <item>GOT the beat</item>
+        <item>Super M</item>
+        <item>WayV</item>
+        <item>NCT Dream</item>
+        <item>NCT 127</item>
+        <item>Red Velvet</item>
+        <item>EXO</item>
+        <item>SHINee</item>
+        <item>Girls Generation</item>
+        <item>Super Junior</item>
+        <item>TVXQ</item>
+        <item>H.O.T</item>
+        <item>S.E.S</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>RIIZE, RIIZE adalah boygrup terbaru dibawah naungan agensi SM Entertainment. Grup ini mempunyai tujuh member di antaranya Shotaro, Eunseok, Wonbin, Sungchan, Anton, dan Sohee. RIIZE dijadwalkan debut pada 4 September 2023 mendatang dengan album single bertajuk (Get A Guitar). Melalui situa resminya dijelaskan jika RIIZE adalah nama yang dibuat dengan menambahkan (Rise dan Realize) atau (Bangkit dan Sadarilah).</item>
+        <item>AESPA adalah girl grup Korea Selatan yang dibentuk oleh SM Entertainment. Mereka debut pada 17 November 2020 dengan singel "Black Mamba".Nah, lagu pertama AESPA pada saat debut ini, membuat sejarah K-Pop yang luar biasa lho, Ma!Lagu pertama mereka “Black Mamba” memecahkan rekor penayangan hari pertama tertinggi dari video musik debut dengan mendapatkan 21,4 penonton dalam 24 jam. Pada bulan Juli 2021,Girl group AESPA juga pernah masuk ke dalam 10 besar peringkat girl group K-Pop dan merebut posisi pertama, menyalip BLACKPINK, Brave Girls, dan TWICE. AESPA memiliki index 3.553.551 dengan satu-satunya girl group rookie di dalam daftar tersebut.</item>
+        <item>GOT (Girls On Top) the beat merupakan unit dari proyek gabungan artis solois dan member girl group besutan SM Entertainment yang debut pada 3 Januari 2022. Sub-unit ini digawangi oleh BoA, Taeyeon dan Hyoyeon dari Girls’ Generation, Seulgi dan Wendy dari Red Velvet, Karina dan Winter dari aespa. Mereka pertama kali muncul di acara konser SMTOWN LIVE 2022: SMCU EXPRESS @Kwangya (1/1/2022) membawakan single “Step Back”. Kemunculan GOT the beat membuat fans K-Pop antusias terutama bagi SM Stan (red: sebutan fans SM Family), karena formasi grup yang terdiri dari para member dengan talenta bernyanyi, menari, dan rap yang terbaik dari setiap girl group SM Entertainment.</item>
+        <item>SuperM merupakan proyek SM Entertainment di mana, grup satu ini terdiri dari 7 pria yang berasal dari 4 grup berbeda, yakni EXO, SHINee, NCT, dan WayV. Mereka adalah Baekhyun dan Kai dari EXO, Taemin dari SHINee, Taeyong dan Mark dari NCT 127, dan terakhir Ten dan Lucas dari WayV. Menggabungkan tiga grup papan atas menjadi satu, hal itu membuat SuperM kerap disebut sebagai "The Avengeres of K-Pop". Debut pada 4 Oktober 2019 di Amerika Serikat.</item>
+        <item>WayV adalah boyband yang merupakan sub unit dari NCT yang berbasis di China. Berisi 7 pria tampan, member WayV berasal dari sejumlah negara di Asia. Selain bakat individu mereka yang mumpuni, para idol ini dikenal karena kefasihan bahasa mereka yang unik. Ketujuh member setidaknya fasih bahasa Mandarin dan Korea. Memulai debut pada tahun 2019 lalu, WayV berhasil masuk jajaran boyband papan atas. </item>
+        <item>NCT Dream adalah sub-unit ketiga dari boy band asal Korea Selatan NCT, yang khusus beranggotakan remaja dengan usia belasan tahun. Pada awalnya, sub-unit ini memiliki sistem kelulusan di mana anggota yang melampaui usia 20 akan keluar, tapi pada 2020, sistem ini diganti dan menjadikan NCT Dream sebagai unit tetap NCT. Unit ini melakukan debutnya pada 25 Agustus 2016 dengan lagu "Chewing Gum" dan tujuh orang anggota: Mark, Renjun, Jeno, Haechan, Jaemin, Chenle dan Jisung.</item>
+        <item>NCT 127 adalah sub-unit kedua dari grup vokal pria Korea Selatan NCT yang dibentuk oleh SM Entertainment Nama unit mereka merupakan kombinasi dari akronim Neo Culture Technology dan angka "127" yang mewakili koordinat bujur kota Seoul.[3] Debut pada 7 Juli 2016 dengan album mini NCT #127, anggota awal mereka terdiri dari 7 anggota: Taeil, Taeyong, Yuta, Jaehyun, Winwin, Mark, dan Haechan. Doyoung dan Johnny kemudian bergabung pada Desember 2016, menjelang perilisan album mini Limitless pada tahun 2017. Kemudian anggota terakhir Jungwoo diperkenalkan sebagai anggota baru pada September 2018, diikuti dengan album studio Regular-Irregular pada Oktober 2018.</item>
+        <item>Red Velvet adalah girl grup asal Korea Selatan yang dibentuk oleh SM Entertainment pada 2014. Grup ini memulai debutnya pada 1 Agustus 2014, dengan merilis single digital Happiness, dengan beranggotakan empat anggota, yaitu Irene, Seulgi, Wendy, dan Joy. Pada Maret 2015, Red Velvet menambah satu anggota bernama Yeri. Red Velvet dianggap sebagai salah satu grup K-pop paling popular di dunia oleh Time dan Billboard. Mereka telah menerima beberapa penghargaan musik, koreografi, dan popularitas, termasuk 2015 Golden Disc New Artist Award dan 2017 Mnet Asian Music Award untuk kategori Best Female Group.</item>
+        <item>EXO merupakan grup vokal pria asal Korea Selatan yang mengawali debut di tahun 2012 dengan lagu berjudul ‘MAMA’. Saat itu, lagu tersebut dinyanyikan dengan dua versi, yakni Korean dan Chinese. Memang, awal debut EXO terbagi menjadi dua unit, yaitu EXO-K yang berpusat promosi di Korea dan EXO-M untuk China. EXO termasuk aliran musik Hip Hop, R&amp;B Kontemporer, dan dansa elektronik. Keberhasilan musiknya, EXO masuk ke posisi lima besar sebagai selebriti yang berpengaruh di daftar Forbes Korea Power Celebrity mulai dari tahun 2014 hingga 2018. Bahkan, EXO dinobatkan sebagai ‘Boyband Terbesar di Dunia’ dan ‘Kings of K-Pop’ oleh media, nih.</item>
+        <item>SHINee merupakan boy group asal Korea Selatan yang dibentuk oleh S.M. Entertainment pada tahun 2008. Awalnya grup ini terdiri dari lima anggota yaitu Onew, Jonghyun, Key, Minho dan Taemin. Namun pada tanggal 18 Desember 2017, SHINee harus kehilangan Jonghyun yang meninggal akibat bunuh diri. SHINee pertama kali tampil pada tanggal 23 Mei 2008. Mereka menampilkan lagu dari mini album pertama mereka yang bertajuk Replay, atau yang lebih dikenal dengan Noona Neomu Yeppeo. Kemudian pada tanggal 25 Mei, grup yang beranggotakan lima personnel ini melakukan debut resmi panggung mereka di SBS Inkigayo dengan membawakan lagu Replay.</item>
+        <item>Girls Generation merupakan girl band asal Korea Selatan yang dibentuk oleh SM Entertainment, terdiri dari 9 wanita cantik yaitu: Yoona, Tiffany, Yuri, Hyoyeon, Sooyoung, Seohyun, Taeyeon, Jessica, dan Sunny. Grup ini juga dikenal dengan nama SNSD, yaitu singkatan dari nama Korea mereka So Nyeo Shi Dae. SNSD dibentuk pada 16 Juli 2007, di mana awalnya mereka diberi nama Super Girl, yang merupakan versi wanita dari Super Junior. Sebelum debut sebagai girl band SNSD, 9 anggotanya sudah menjalani training khusus untuk menjadi penari dan penyanyi profesional. Single pertama mereka Into The New World dirilis pada 2 Agustus 2007 dan merupakan awal dari kesuksesan mereka untuk bisa menjadi salah satu band terbaik di Korea serta negara-negara lain.</item>
+        <item>Super Junior merupakan grup laki-laki asal Korea Selatan yang dibentuk pada tahun 2005 oleh produser Lee Soo-man dari perusahaan rekaman SM Entertainment. Bahkan Super Junior juga dijuluki oleh media dan Penghargaan Musik Korea sebagai "King of Hallyu Wave". Hal itu dikarenakan, Super Junior memiliki kontribusi penting terhadap Korean Wave. SUJU terdiri dari tiga belas member pada puncaknya. Di awal debut, Super Junior hanya berjumlah dua belas anggota, yang terdiri dari pemimpin Leeteuk, Heechul, Han Geng, Yesung, Kangin, Shindong, Sungmin, Eunhyuk, Siwon, Donghae, Ryeowook, dan Kibum. Kemudian bertambah Kyuhyun bergabung dengan grup pada tahun 2006.</item>
+        <item>TVXQ merupakan singkatan dari Tong Vfang Xien Qi dalam bahasa Mandarin. Dalam bahasa Korea mereka dikenal dengan nama Dong Bang Shin Ki (DBSK) dan dalam bahasa Jepang sebagai Tohosinki. TVXQ secara kasar diterjemahkan menjadi "Dewa-dewa yang Bangkit dari Timur".TVXQ debut pada 26 Desember 2003 dengan lima member awalnya. U-Know Yunho, Max Changmin, Hero Jaejoong, Micky Yoochun, dan Xiah Junsu. Single debut mereka berjudul "Hug" yang dinyanyikan pada momen pertunjukan senior mereka, BoA dan Britney Spears. Kemudian, pada 14 Januari 2004 mereka merilis bentuk fisik dari "Hug" dan terjual hampir 5.000 unit. Pada akhir 2004, TVXQ mulai merambah pasar musik Jepang.</item>
+        <item>H.O.T adalah grup Kpop generasi pertama. Debut pada 1996 di bawah naungan SM Entertainment. Aslinya grup ini beranggotakan lima orang. Grup ini bubar pada Mei tahun 2001 karena tiga membernya yakni Tony An, Lee Jae Won, dan Jang Woo Hyuk tidak menemui kesepakatan dengan agensi. Ketiga member yang hengkang kemudian membentuk grup JTL yang aktif sampai 2003. H.O.T sempat reuni kembali di tahun 2018 dengan mengikuti variety show Infinite Challenge. Mereka lalu mengadakan konser reuni bertajuk Forever </item>
+        <item>S.E.S. (Sea, Eugene, Shoo)adalah girlband Korea Selatan di bawah manajemen SM Entertainment. Berlangsung dari 1997 sampai 2002, mereka dipandang sebagai versi perempuan dari H.O.T, kelompok lain SM yang juga menikmati popularitas fenomenal selama tahun-tahun yang sama. S.E.S. adalah kelompok gadis K-pop pertama yang sangat sukses. Mereka ditantang oleh kelompok-kelompok seperti Fin.KL dan Baby V.O.X debutnya segera setelah S.E.S. dan juga sukses. Meskipun persaingan intens dikembangkan antara S.E.S. dan penggemar Fin.KL, anggota kedua kelompok selalu menyatakan bahwa tidak ada persaingan dan bahwa mereka pada kenyataannya adalah teman. Namun, sementara S.E.S. berhasil secara konsisten memiliki angka penjualan yang tinggi untuk album mereka, Fin.KL yang memenangkan Daesang penghargaan dari berbagai acara musik.</item>
+    </string-array>
+
+    <array name="video_id">
+        <item>@raw/riize</item>
+        <item>@raw/aespa</item>
+        <item>@raw/got_the_beat</item>
+        <item>@raw/super_m</item>
+        <item>@raw/wayv</item>
+        <item>@raw/nct_dream</item>
+        <item>@raw/nct_127</item>
+        <item>@raw/red_velvet</item>
+        <item>@raw/exo</item>
+        <item>@raw/shinee</item>
+        <item>@raw/girls_generation</item>
+        <item>@raw/super_junior</item>
+        <item>@raw/tvxq</item>
+        <item>@raw/h_o_t</item>
+        <item>@raw/s_e_s</item>
+    </array>
+    <integer-array name="data_photo">
+        <item>@drawable/riize</item>
+        <item>@drawable/aespa</item>
+        <item>@drawable/got_the_beat</item>
+        <item>@drawable/super_m</item>
+        <item>@drawable/wayv</item>
+        <item>@drawable/nct_dream</item>
+        <item>@drawable/nct127</item>
+        <item>@drawable/red_velvet</item>
+        <item>@drawable/exo</item>
+        <item>@drawable/shinee</item>
+        <item>@drawable/girls_generation</item>
+        <item>@drawable/super_junior</item>
+        <item>@drawable/tvxq</item>
+        <item>@drawable/h_o_t</item>
+        <item>@drawable/s_e_s</item>
+    </integer-array>
+</resources>
